@@ -1,5 +1,5 @@
 Proje Yazarı: Muhammed Nureddin Krid
-# Projenin Adı: Kod-Asistan v0.1
+# Projenin Adı: Kod-Asistan v0.2
 ## Projenin Amacı: 
 ## Projenin Hedefleri: şifre doğrulama
 ## Kritik eşik:

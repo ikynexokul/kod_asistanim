@@ -11,5 +11,4 @@ Proje Yazarı: Muhammed Nureddin Krid
 6) bitir.
 
 
-#Kaynakça
-https://meslek.meb.gov.tr/
+#Kaynakça:  https://meslek.meb.gov.tr/

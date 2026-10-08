@@ -12,4 +12,4 @@ Proje Yazarı: Muhammed Nureddin Krid
 
 
 #Kaynakça
-https://meslek.gov.tr/
+https://meslek.meb.gov.tr/

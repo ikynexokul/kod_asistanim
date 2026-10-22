@@ -10,5 +10,6 @@ Proje Yazarı: Muhammed Nureddin Krid
 5) eşleimiyorsa 3e dön
 6) bitir.
 
+![metin birleştirme](metin_birleştirme.png)
 
 #Kaynakça:  https://meslek.meb.gov.tr/

@@ -3,6 +3,6 @@ Proje Yazarı: Muhammed Nureddin Krid
 ## Projenin Amacı: 
 ## Projenin Hedefleri: 
 ## Kritik eşik:
-![metin birleştirme](metin_birleştirme.png)
+!(metin_birleştirme.png)
 
 #Kaynakça:  https://meslek.meb.gov.tr/
